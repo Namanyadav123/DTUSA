@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014418196",
+    "firebase_url": "https://dtusaforum.firebaseio.com",
+    "project_id": "dtusaforum",
+    "storage_bucket": "dtusaforum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014418196:android:7e66d5d027cdb4ab",
+        "android_client_info": {
+          "package_name": "com.namy86.dtu_saforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014418196-p6fni5rasnhb50q8o1dd3bkiltbgji49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.namy86.dtu_saforum",
+            "certificate_hash": "d945680c0a310d385ecb34476e3de111187b1098"
+          }
+        },
+        {
+          "client_id": "1014418196-7hjg8qi81ncu0hj43q123fjs968e52ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSW5KOvBKhnBQ44QNJ5tjNvYNikMfhDcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014418196-7hjg8qi81ncu0hj43q123fjs968e52ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

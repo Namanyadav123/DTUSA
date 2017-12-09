@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DTU-SA Forum</string>
+    
+    
+    
+    <string-array name="CollegesName">
+        <item>Delhi Technological University</item>
+        <item>Netaji Subhash Institute Of Technology</item>
+        <item>IIIT Delhi</item>
+        <item>Maharaja Agrasen Institute Of Technology</item>
+        <item>SRM University</item>
+        <item>Vellore Institute Of Technology</item>
+        <item>Amity University</item>
+        <item>IGDTUW University</item>
+    </string-array>
+</resources>
+
+
