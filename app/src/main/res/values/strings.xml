@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">DTU-SA Forum</string>
-    
-    
-    
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
     <string-array name="CollegesName">
         <item>Delhi Technological University</item>
         <item>Netaji Subhash Institute Of Technology</item>
@@ -13,6 +14,12 @@
         <item>Amity University</item>
         <item>IGDTUW University</item>
     </string-array>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
 
 

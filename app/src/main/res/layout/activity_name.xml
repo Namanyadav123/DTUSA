@@ -1,0 +1,62 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image55"
+        android:layout_width="88dp"
+        android:src="@drawable/l3"
+        app:civ_border_color="#bf6ac2"
+        app:civ_border_width="1dp"
+        android:layout_height="98dp"
+        android:background="#bf6ac2"
+        android:contentDescription="desc"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:id="@+id/text_container1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/image55"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:background="@drawable/pic"
+        tools:ignore="ObsoleteLayoutParam,RtlHardcoded,RtlSymmetry">
+
+        <TextView
+            android:id="@+id/miwok_text_view1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:text="Content"
+            android:background="@drawable/pic"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/default_text_view1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="top"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/black"
+            android:text="Date"
+            android:background="@drawable/pic"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>

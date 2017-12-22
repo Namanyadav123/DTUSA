@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/dab"
+        android:icon="@drawable/ic_btecheve"
+        android:title="Dashboard"/>
+    <item android:id="@+id/Events"
+        android:icon="@drawable/ic_btecheve"
+        android:title="Events"/>
+    <item android:id="@+id/Search"
+        android:icon="@drawable/ic_btecheve"
+        android:title="Search"/>
+    <item android:id="@+id/Settings"
+        android:icon="@drawable/ic_btecheve"
+        android:title="Settings"/>
+    <item android:id="@+id/logOut"
+        android:icon="@drawable/ic_btecheve"
+        android:title="Log Out"/>
+
+</menu>
